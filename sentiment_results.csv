@@ -1,0 +1,5 @@
+review_id,review_text,cleaned_text,language,sentiment_score,sentiment_label
+1,Amazing food and fast delivery!,Amazing food and fast delivery!,en,0.43,Positive
+2,Worst experience ever. The food was cold.,Worst experience ever. The food was cold.,en,-0.8,Negative
+4,"Good, but could be better","Good, but could be better",en,0.6,Positive
+5,Totally loved the pizza!,Totally loved the pizza!,en,0.88,Positive
